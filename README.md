@@ -1,8 +1,6 @@
 # 🛰️ DGT Balizas v16 Activas en Tiempo Real
-Last Update: 2026-01-14 16:42:19 | 🚨 Active Beacons: 212 📉
+Última Actualización: 2026-01-14 16:46:33 | 🚨eNúmero de  alizas Activas: 220 📈
 ### ⏱️ System Status
-Last Update: [Waiting] | 🚨 Active Beacons: 0 ➡️
-
 ---
 
 Este proyecto monitoriza las  **Balizas v16** activas, proporcionando su ubicación con OpenLayers.
