@@ -1,63 +1,64 @@
 # DGT Balizas v16 Activas
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
-### ⏱️ Última Actualización: 2026-01-14 15:56:16.408258 | 🚨 Balizas Activas: 219 ➡️
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
+### ⏱️ Última Actualización: 2026-01-14 15:58:34.894783 | 🚨 Balizas Activas: 264 📈
