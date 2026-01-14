@@ -1,9 +1,9 @@
 name: Update DGT Map
 
 on:
-  schedule:
-    - cron: '0 * * * *' # Runs exactly at the start of every hour
-  workflow_dispatch:   # Adds a button to run it manually
+schedule:
+  - cron: '*/2 * * * *' # This tells GitHub to run every 2 minutes
+workflow_dispatch: # Adds a button to run it manually
 
 jobs:
   build:
