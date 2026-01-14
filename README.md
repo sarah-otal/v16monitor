@@ -1,5 +1,5 @@
 # 🛰️ DGT Balizas v16 Activas en Tiempo Real
- ### ⏱️Última Actualización: 2026-01-14 17:02:59 | 🚨Número de Balizas Activas: 240 📉
+ ### ⏱️Última Actualización: 2026-01-14 17:05:16 | 🚨Número de Balizas Activas: 240 ➡️
 ---
 
 Este proyecto monitoriza las  **Balizas v16** activas, proporcionando su ubicación con OpenLayers.
