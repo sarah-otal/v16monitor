@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add v16activas.html
+          git add v16activas.html mapa_base.html README.md
           git commit -m "Auto-update map: $(date)" || echo "No changes to commit"
           git push
