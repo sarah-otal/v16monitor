@@ -7,6 +7,7 @@
 [![Refresh Rate](https://img.shields.io/badge/Refresh-2_Minutes-blue?style=for-the-badge)](https://rserranoga.github.io/v16monitor/v16activas.html)
 
 ### ⏱️  Última actualización: 2026-01-14 16:00:00
+### ⏱️ Last Update: Última a [Syncing...] | 🚨 Active Beacons: 0 ➡️
 
 Proyecto para la  visualización de balizas v16 activas conectadas a la plataforma DGT3.0 de la Dirección General de Tráfico en las carreteras de España.
 
