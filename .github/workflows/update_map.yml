@@ -2,7 +2,7 @@ name: Update DGT Map
 
 on:
 schedule:
-  - cron: '*/2 * * * *' # Triggers an every 2 minutes run
+  - cron: '*/3 * * * *' # Triggers an every 3 minutes run
 workflow_dispatch: # Adds a button to run it manually
 
 jobs:
