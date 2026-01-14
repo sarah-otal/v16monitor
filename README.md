@@ -9,11 +9,6 @@ Los datos utlizados son públicos, propercionados por la Dirección General de T
 ## 🚀Visualizar el  Mapa en tiempo real
 **[https://rserranoga.github.io/v16monitor/v16activas.html](https://rserranoga.github.io/v16monitor/v16activas.html)**
 
-## 🛠 System Architecture
-- **Engine:** R Script running on Google Cloud Platform (e2-micro).
-- **Update Frequency:** Every 2 minutes.
-- **Data Source:** DGT (Dirección General de Tráfico) Open Data.
-- **Automation:** Persistent R loop inside a `screen` session.
+Ramiro Serrano-Garcia y Sara Helena Otal Franco
+(rserranoga@gmail.com)  (sarah.otal@uah.es)
 
----
-*Note: The `data/` folder and scripts are hosted privately on the VM to keep this repository clean.
