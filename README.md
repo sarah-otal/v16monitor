@@ -9,6 +9,8 @@ Los datos utlizados son públicos, propercionados por la Dirección General de T
 ## 🚀Visualizar el  Mapa en tiempo real
 **[https://rserranoga.github.io/v16monitor/v16activas.html](https://rserranoga.github.io/v16monitor/v16activas.html)**
 
-Ramiro Serrano-Garcia y Sara Helena Otal Franco
-(rserranoga@gmail.com)  (sarah.otal@uah.es)
+Sara Helena Otal Franco
+(sarah.otal@uah.es)
+Ramiro Serrano-Garcia
+(rserranoga@gmail.com)
 
