@@ -2,12 +2,15 @@ name: Update DGT Map
 
 on:
 schedule:
-  - cron: '*/2 * * * *' # This tells GitHub to run every 2 minutes
+  - cron: '*/2 * * * *' # Triggers an every 2 minutes run
 workflow_dispatch: # Adds a button to run it manually
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency: 
+      group: map-update
+      cancel-in-progress: true
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -25,10 +28,10 @@ jobs:
         run: Rscript script.R
 
       - name: Commit and push changes
-              run: |
-                git config --local user.email "actions@github.com"
-                git config --local user.name "GitHub Actions"
-                git add v16activas.html map_base.html README.md data/*.csv
-                git pull --rebase origin main # Important: pulls latest changes before pushing
-                git commit -m "Auto-update map: $(date)" || echo "No changes to commit"
-                git push origin main
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add v16activas.html map_base.html README.md data/*.csv
+          git pull --rebase origin main # Important: pulls latest changes before pushing
+          git commit -m "Auto-update map: $(date)" || echo "No changes to commit"
+          git push origin main
