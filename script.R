@@ -161,9 +161,17 @@ create_dgt_openlayers_map <- function(csv_path, filter_source = NULL, filter_cau
     gsub("/*DATA*/", json_data, ., fixed = TRUE) %>%
     gsub("/*TS*/", formatted_ts, ., fixed = TRUE) %>%
     gsub("/*FILETS*/", filename_ts, ., fixed = TRUE)
-  
+
   writeLines(final_html, "v16activas.html")
   message("v16activas.html created successfully.")
+                             
+ # Update README with the last execution time
+  readme_content <- c(
+    paste("# DGT Balizas v16 Monitor"),
+    paste("### Last successful update: ", formatted_ts),
+    paste("\n[View Live Map](https://yourusername.github.io/dgt-v16-monitor/v16activas.html)")
+  )
+  writeLines(readme_content, "README.md")
 }
 
 # --- 3. EXECUTION ---
