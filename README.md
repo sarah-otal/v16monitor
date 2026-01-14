@@ -35,3 +35,5 @@ This project operates as an autonomous data pipeline, decoupled from the GitHub 
 *Disclaimer: La precisión de la información mostrada depende de la calidad y frecuencia de los datos ofrecidos en su portal por la DGT.*
 
 
+
+
