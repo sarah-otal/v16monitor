@@ -33,5 +33,5 @@ This project operates as an autonomous data pipeline, decoupled from the GitHub 
 
 
 Última Actualización: Timestamp
- ### ⏱️Última Actualización: 2026-01-15 09:43:56 CET | 🚨Número de Balizas Activas: 219 📈
+ ### ⏱️Última Actualización: 2026-01-15 09:46:13 CET | 🚨Número de Balizas Activas: 203 📉
 Última Actualización: Timestamp
