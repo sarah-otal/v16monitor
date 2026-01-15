@@ -1,6 +1,4 @@
 # 🛰️ DGT Balizas v16 Activas en Tiempo Real
- ### ⏱️Última Actualización: 2026-01-15 09:29:44 CET | 🚨Número de Balizas Activas: 218 📈
----
 
 Este proyecto monitoriza las  **Balizas v16** activas, proporcionando su ubicación con OpenLayers.
 
@@ -9,8 +7,7 @@ Este proyecto monitoriza las  **Balizas v16** activas, proporcionando su ubicaci
 ---
 
 ## 🏗️ Arquitectura del Sistema
-This project operates as an autonomous data pipeline, decoupled from the GitHub repository for maximum performance.
-
+El proyecto funciona de forma aútonoma, sin estar hospedado en GitHub.
 
 | Component | Technology | Role |
 | :--- | :--- | :--- |
@@ -18,7 +15,7 @@ This project operates as an autonomous data pipeline, decoupled from the GitHub 
 | **Automation** | GCP Compute Engine | E2-micro instance running a 24/7 persistent loop. |
 | **Hosting** | GitHub Pages | Serves the processed map to the public. |
 
-## 🛠️ Technical Implementation
+## 🛠️ Implementación
 * **Reboot Guard:** Managed via `crontab @reboot` to ensure 100% uptime.
 * **Smart Sync:** Uses `git pull --rebase -X ours` to prevent merge conflicts.
 * **Privacy:** Logic and historical data are stored privately on the VM.
@@ -31,7 +28,6 @@ This project operates as an autonomous data pipeline, decoupled from the GitHub 
 *Disclaimer: La exactitud de los datos depende de la frecuencia con la que los suministra el proveedor.*
 
 
-
 Última Actualización: Timestamp
- ### ⏱️Última Actualización: 2026-01-15 09:46:13 CET | 🚨Número de Balizas Activas: 203 📉
+ ### ⏱️Última Actualización: 2026-01-15 09:50:38 CET | 🚨Número de Balizas Activas: 198 📉
 Última Actualización: Timestamp
