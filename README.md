@@ -28,4 +28,4 @@ El proyecto funciona de forma aútonoma, sin estar hospedado en GitHub.
 ---
 *Disclaimer: La exactitud de los datos depende de la frecuencia con la que los suministra el proveedor.*
 
- ### ⏱️Última Actualización: 2026-01-15 13:37:41 CET | 🚨Número de Balizas Activas: 200 📉
+ ### ⏱️Última Actualización: 2026-01-15 13:39:57 CET | 🚨Número de Balizas Activas: 187 📉
