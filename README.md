@@ -1,6 +1,6 @@
-# 🛰️ DGT Balizas v16 Activas en Tiempo Real
+# 🛰️ Balizas DGT V-16 Activas en Tiempo Real
 
-Este proyecto monitoriza las  **Balizas v16** activas, proporcionando su ubicación con OpenLayers.
+Este proyecto monitoriza las  **Balizas DGT V-16** activas, proporcionando su ubicación con OpenLayers.
 
 ## 🔗 [Ver el Mapa](https://rserranoga.github.io/v16monitor/v16activas.html)
 
@@ -28,4 +28,4 @@ El proyecto funciona de forma aútonoma, sin estar hospedado en GitHub.
 ---
 *Disclaimer: La exactitud de los datos depende de la frecuencia con la que los suministra el proveedor.*
 
- ### ⏱️Última Actualización: 2026-01-15 15:11:18 CET | 🚨Número de Balizas Activas: 180 📉
+ ### ⏱️Última Actualización: 2026-01-15 15:13:25 CET | 🚨Número de Balizas Activas: 188 📉
