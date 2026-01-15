@@ -30,3 +30,8 @@ This project operates as an autonomous data pipeline, decoupled from the GitHub 
 ---
 *Disclaimer: La exactitud de los datos depende de la frecuencia con la que los suministra el proveedor.*
 
+
+
+Última Actualización: Timestamp
+ ### ⏱️Última Actualización: 2026-01-15 09:43:56 CET | 🚨Número de Balizas Activas: 219 📈
+Última Actualización: Timestamp
