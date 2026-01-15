@@ -22,9 +22,10 @@ El proyecto funciona de forma aútonoma, sin estar hospedado en GitHub.
 
 ## 👨‍💻 Autores
 * **Sara Helena Otal Franco** - [sarah.otal@uah.es](mailto:sarah.otal@uah.es) [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square)](mailto:sarah.otal@uah.es)
-* **Ramiro Serrano-Garcia** - [@rserranoga](https://github.com/rserranoga)
+* **Ramiro Serrano-Garcia** - [@rserranoga](https://github.com/rserranoga), [rserranoga@gmai.com](mailto:rserranoga@gmail.com)[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square)](mailto:rserranoga@gmail.com)
+
 
 ---
 *Disclaimer: La exactitud de los datos depende de la frecuencia con la que los suministra el proveedor.*
 
- ### ⏱️Última Actualización: 2026-01-15 11:22:39 CET | 🚨Número de Balizas Activas: 176 📉
+ ### ⏱️Última Actualización: 2026-01-15 11:26:30 CET | 🚨Número de Balizas Activas: 176 📉
