@@ -2,7 +2,7 @@
 
 Este proyecto monitoriza las  **Balizas DGT V-16** activas, proporcionando su ubicación con OpenLayers.
 
-## 🔗 [Ver el Mapa](https://rserranoga.github.io/v16monitor/v16activas.html)
+## 🔗 [Ver el Mapa](https://sarah-otal.github.io/v16monitor/v16activas.html)
 
 
 ## 🏗️ Arquitectura del Sistema
@@ -27,4 +27,4 @@ El proyecto funciona de forma aútonoma, sin estar hospedado en GitHub.
 ---
 *Disclaimer: La exactitud de los datos depende de la frecuencia con la que los suministra el proveedor.*
 
- ### ⏱️Última Actualización: 2026-01-16 09:23:40 CET | 🚨Número de Balizas Activas: 225 📉
+ ### ⏱️Última Actualización: 2026-01-16 09:25:15 CET | 🚨Número de Balizas Activas: 216 📉
