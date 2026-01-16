@@ -1,9 +1,8 @@
 # 🛰️ Balizas DGT V-16 Activas en Tiempo Real
 
-Este proyecto monitoriza las  **Balizas DGT V-16** activas, proporcionando su ubicación con OpenLayers.
+Este proyecto muestra las **Balizas DGT V-16** activas, proporcionando su ubicación con OpenLayers.
 
 ## 🔗 [Ver el Mapa](https://sarah-otal.github.io/v16monitor/v16activas.html)
-
 
 ## 🏗️ Arquitectura del Sistema
 El proyecto funciona de forma aútonoma, sin estar hospedado en GitHub.
@@ -23,8 +22,5 @@ El proyecto funciona de forma aútonoma, sin estar hospedado en GitHub.
 * **Sara Helena Otal Franco** - [@sarah-otal](https://github.com/sarah-otal), [sarah.otal@uah.es](mailto:sarah.otal@uah.es) [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square)](mailto:sarah.otal@uah.es)
 * **Ramiro Serrano-Garcia** - [@rserranoga](https://github.com/rserranoga), [rserranoga@gmai.com](mailto:rserranoga@gmail.com)[![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square)](mailto:rserranoga@gmail.com)
 
-
 ---
 *Disclaimer: La exactitud de los datos depende de la frecuencia con la que los suministra el proveedor.*
-
- ### ⏱️Última Actualización: 2026-01-16 09:50:28 CET | 🚨Número de Balizas Activas: 230 📉
